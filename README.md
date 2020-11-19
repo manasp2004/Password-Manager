@@ -1,3 +1,3 @@
 ﻿# Password Manager
 
-## Note: Project is not Completed!
+## Note: The Project is not Complete!
